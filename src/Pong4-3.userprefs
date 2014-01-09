@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BallMovement.cs">
+    <Files>
+      <File FileName="Assets\PaddleMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\PaddleMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\BallMovement.cs" Line="52" Column="18" />
+      <File FileName="Assets\WallTopCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets\Paddle2Script.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
